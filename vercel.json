@@ -33,6 +33,7 @@
         "SESSION_DRIVER": "cookie",
         "CACHE_STORE": "array",
         "DB_CONNECTION": "sqlite",
-        "DB_DATABASE": "/tmp/database.sqlite"
+        "DB_DATABASE": "/tmp/database.sqlite",
+        "APP_KEY": "base64:DMRYDyuxVTyTMknaE6QQsj82v+a7C8ncqlZPQyo7eKQ="
     }
 }
